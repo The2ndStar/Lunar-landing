@@ -78,6 +78,7 @@ At every step, the lander receives an 8-dimensional continuous state vector:
 ---
 Repository Structure
 
+'''text
 ├── Training/
 │   └── logs/
 │       ├── Training_DQN/
@@ -95,5 +96,6 @@ Repository Structure
 ├── landing_comparison.mp4
 └── README.md
 
+'''
 ---
 
