@@ -40,7 +40,7 @@ The goal of this project is to analyze how value-based off-policy algorithms (DQ
 
 Reinforcement Learning Feedback Loop
 
-![Reinforcement Learning Loop](Agent Policy.png) 
+![Reinforcement Learning Loop](Reinforcement_Learning_Loop.png) 
 
 ### 1. State Vector ($S_t$ - 8 Variables)
 At every step, the lander receives an 8-dimensional continuous state vector:
