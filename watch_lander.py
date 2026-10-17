@@ -9,8 +9,8 @@ env_ppo = gym.make("LunarLander-v3", render_mode="rgb_array")
 
 # 2. Load trained models
 print("Loading trained models...")
-model_dqn = DQN.load("dqn_lunarlander")
-model_ppo = PPO.load("ppo_lunarlander")
+model_dqn = DQN.load("model_weight/dqn_lunarlander")
+model_ppo = PPO.load("model_weight/ppo_lunarlander")
 
 # 3. Reset both environments with the same seed for a fair comparison
 obs_dqn, _ = env_dqn.reset(seed=42)
