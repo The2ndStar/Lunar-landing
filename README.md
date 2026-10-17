@@ -65,7 +65,7 @@ At every step, the lander receives an 8-dimensional continuous state vector:
 
 ## Training Performance & Learning Curve
 
-![DQN vs PPO Reward Comparison](dqn_vs_ppo_comparison.png)
+![DQN vs PPO Reward Comparison](DQNVSPPO.png)
 
 ### Performance Key Insights:
 * **Deep Q-Network (DQN - Off-Policy):**
