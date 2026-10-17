@@ -78,7 +78,7 @@ At every step, the lander receives an 8-dimensional continuous state vector:
 ---
 Repository Structure
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 .
