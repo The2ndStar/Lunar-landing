@@ -1,0 +1,23 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Temporary OS / Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large Training Logs (Keep model .zip files and README graph, ignore raw log CSVs if desired)
+logs/*/
