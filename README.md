@@ -76,5 +76,24 @@ At every step, the lander receives an 8-dimensional continuous state vector:
   * **Stability:** Avoids the drastic policy crashes seen in DQN due to its clipped surrogate loss objective[cite: 2].
 
 ---
+Repository Structure
 
+├── Training/
+│   └── logs/
+│       ├── Training_DQN/
+│       │   └── monitor.csv
+│       └── Training_PPO/
+│           └── monitor.csv
+├── model_weight/
+│   ├── dqn_lunarlander.zip
+│   └── ppo_lunarlander.zip
+├── 1_train_dqn.ipynb
+├── 2_train_ppo.ipynb
+├── 3_compare_models.ipynb
+├── watch_lander.py
+├── dqn_vs_ppo_comparison.png
+├── landing_comparison.mp4
+└── README.md
+
+---
 
