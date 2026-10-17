@@ -3,7 +3,8 @@ Lunar Rocket Landing: DQN vs. PPO
 An end-to-end Reinforcement Learning (RL) project studying and comparing the behavioral dynamics of **Deep Q-Networks (DQN)** and **Proximal Policy Optimization (PPO)** on the `LunarLander-v3` environment.
 
 ---
-
+ lunar_lander_comparison.mp4
+---
 ## Project Overview
 The goal of this project is to analyze how value-based off-policy algorithms (DQN) compare against policy-gradient on-policy algorithms (PPO) when controlling a lunar lander's thrust and orientation engines to achieve a safe, fuel-efficient landing between designated target flags.
 
