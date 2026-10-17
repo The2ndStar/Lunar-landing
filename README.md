@@ -5,7 +5,8 @@ An end-to-end Reinforcement Learning (RL) project studying and comparing the beh
 ---
 
 
-https://github.com/user-attachments/assets/76897ccb-47a8-494d-a9f5-0b5f47858b6a
+![Uploading ezgif-8d2da1b2b0b19cf0.gif…]()
+
 
 
 ---
